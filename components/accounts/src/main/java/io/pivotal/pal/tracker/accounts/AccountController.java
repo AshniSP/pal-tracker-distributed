@@ -35,5 +35,6 @@ public class AccountController {
             .name(record.name)
             .info("account info")
             .build();
+
     }
 }
